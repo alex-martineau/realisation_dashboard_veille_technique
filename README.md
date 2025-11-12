@@ -45,8 +45,6 @@ Concevoir une interface interactive et explicable pour visualiser le **score de 
 - **SHAP Local** : explication d’une prédiction individuelle.  
 - **Visualisation dynamique** : beeswarm plots, waterfall plots, histograms et scatter plots interactifs.  
 
----
-
 ### 🔗 API utilisée
 | Endpoint | Description |
 |-----------|-------------|
@@ -79,9 +77,7 @@ sur un **jeu de données Flipkart e-commerce**, afin d’évaluer leur efficacit
 4. **Visualisation** :
    - Réduction de dimension via **t-SNE**  
    - Clustering via **KMeans**  
-   - Calcul de l’**ARI (Adjusted Rand Index)**  
-
----
+   - Calcul de l’**ARI (Adjusted Rand Index)**
 
 ### 📈 Résultats
 
@@ -94,7 +90,7 @@ Les résultats démontrent que **MiniLM** offre une **précision équivalente à
 
 ---
 
-### 🛠️ Technologies utilisées
+## 🛠️ Technologies utilisées
 - **Machine Learning** : scikit-learn, numpy, pandas  
 - **NLP** : Hugging Face Transformers, Sentence-Transformers, TensorFlow  
 - **Visualisation** : matplotlib, seaborn, Plotly  
@@ -103,16 +99,20 @@ Les résultats démontrent que **MiniLM** offre une **précision équivalente à
 
 ---
 
-### 🔍 Résumé global du projet
+## 🔍 Résumé global du projet
 Ce dépôt illustre :
 - L’intégration **MLOps + DataViz** via un dashboard explicable et déployé.  
 - Une **veille NLP** approfondie comparant deux modèles de génération d’embeddings modernes.  
 - Une approche **complète du cycle IA**, de la collecte de données à l’explicabilité en production.  
 
-### 📦 Dépôt & Ressources
+---
+
+## 📦 Dépôt & Ressources
 
 🔗 Dépôt GitHub : realisation_dashboard_veille_technique
 🔗 API Scoring : https://my-scoring-app-546acd78d8fa.herokuapp.com/
+
+---
 
 ## ✅ Conclusion
 
